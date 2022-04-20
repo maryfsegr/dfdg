@@ -5,7 +5,6 @@
 * 支持存储自定义文件,目录及账号密码均为AUUID,客户端务必使用TLS连接  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/
-
 maryfsegr/dfdg)  
   
 ### 服务端
